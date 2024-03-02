@@ -1,0 +1,3 @@
+[submodule "src/turtlebot_online_path_planning"]
+	path = src/turtlebot_online_path_planning
+	url = https://github.com/bright46983/turtlebot_online_path_planning
