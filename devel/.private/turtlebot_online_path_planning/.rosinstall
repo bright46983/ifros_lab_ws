@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tanakrit-ubuntu/ifros_lab_ws/devel/.private/turtlebot_online_path_planning/setup.sh

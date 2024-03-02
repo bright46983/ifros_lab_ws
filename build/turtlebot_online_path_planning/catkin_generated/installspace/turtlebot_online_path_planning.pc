@@ -1,0 +1,8 @@
+prefix=/home/tanakrit-ubuntu/ifros_lab_ws/install
+
+Name: turtlebot_online_path_planning
+Description: Description of turtlebot_online_path_planning
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
